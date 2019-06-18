@@ -1,5 +1,6 @@
 {
   "name": "react-native-watch-connectivity",
+  "description": "Communicate with your apple watch apps over the react native bridge.",
   "version": "0.2.0",
   "main": "./RNWatch.ios.build.js",
   "keywords": "react-native",
