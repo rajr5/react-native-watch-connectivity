@@ -1,6 +1,7 @@
 {
   "name": "rnwatch",
-  "version": "0.2.0",
+  "version": "0.2.1",
+  "description": "Communicate with your apple watch apps over the react native bridge.",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
